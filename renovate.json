@@ -1,8 +1,0 @@
-{
-  "extends": [
-    ":onlyNpm",
-    "group:all"
-  ],
-  "labels": ["upgrade"],
-  "ignoreDeps": ["cucumber", "restify", "mocha", "nock"]
-}
